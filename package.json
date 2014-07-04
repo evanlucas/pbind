@@ -1,0 +1,26 @@
+{
+  "name": "pbind",
+  "version": "0.0.0",
+  "description": "bind for phantomjs",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "CC0-1.0",
+  "keywords": [
+    "phantomjs",
+    "bind",
+    "polyfill",
+    "browser"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/pbind"
+  },
+  "homepage": "https://github.com/evanlucas/pbind",
+  "bugs": {
+    "url": "https://github.com/evanlucas/pbind/issues"
+  },
+  "browser": {
+    "pbind": "index.js"
+  }
+}
