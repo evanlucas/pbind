@@ -1,6 +1,6 @@
 {
   "name": "pbind",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "bind for phantomjs",
   "main": "index.js",
   "dependencies": {},
